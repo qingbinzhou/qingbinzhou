@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello! I am a bioinformatics enthusiast with a deep passion for integrating deep learning and mathematics. 
+I enjoy exploring how advanced computational techniques can be applied to biological data analysis, from genomics to proteomics. 
+My interests lie in developing and applying machine learning models to uncover patterns in complex biological systems, enhancing our understanding of life at a molecular level. 
+I am always eager to learn and discuss new ideas at the intersection of biology, AI, and mathematics!
